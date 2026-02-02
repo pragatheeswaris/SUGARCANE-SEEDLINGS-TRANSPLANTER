@@ -96,3 +96,7 @@ The current prototype demonstrates the tray-based seedling holding and dispensin
 
 ## click here to view the result video:
 https://drive.google.com/file/d/12rYS4RVgu-XJTgvLXYCnECwJEhgAvm72/view?usp=sharing
+
+
+
+

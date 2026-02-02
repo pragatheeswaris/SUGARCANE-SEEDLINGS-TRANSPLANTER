@@ -1,5 +1,6 @@
 ## AUTOMATIC-SUGARCANE-SEEDLING-TRANSPLANTER---POWER-TILLER
 <img width="323" height="250" alt="image" src="https://github.com/user-attachments/assets/cbfeb01b-8cb9-40a8-8273-befe35427746" />
+
 # 🚜 Automatic Sugarcane Seedling Transplanter (Power Tiller Retrofit)
 # 📝 Project Overview
 
@@ -80,7 +81,8 @@ The current prototype demonstrates the tray-based seedling holding and dispensin
 
 ## 📊 Results & Observations
 # ✅ Prototype Results
-![3D Design](https://github.com/user-attachments/assets/e1823df4-b9ad-461a-8b78-fa5f2f071565)
+
+![3D_Design2](https://github.com/user-attachments/assets/e0ddffc0-014b-4021-b125-d895e5f89046)
 
 -> Successful seedling holding and dispensing demonstrated
 

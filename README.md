@@ -80,7 +80,10 @@ The current prototype demonstrates the tray-based seedling holding and dispensin
 
 ## 📊 Results & Observations
 # ✅ Prototype Results
-<img width="323" height="250" alt="image" src="https://github.com/user-attachments/assets/6def2d71-d51d-46c5-9ea9-57767283467b" />
+
+![3D Design](https://github.com/user-attachments/assets/9e2c8434-70a5-4ebc-addd-b85ba48327ff)
+![3D_Design2](https://github.com/user-attachments/assets/48481467-4fe8-4e54-bb8e-6cc73bcce58b)
+
 
 <img width="323" height="250" alt="image" src="https://github.com/user-attachments/assets/cbfeb01b-8cb9-40a8-8273-befe35427746" />
 
